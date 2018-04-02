@@ -51,4 +51,4 @@ https://console.firebase.google.com/u/0/project/exampleplacepicker-154714/notifi
  
  
  
-![Screenshots](http://full/path/to/img.jpg "Mind Inventory")
+![Screenshots](http://awallpapersimages.com/wp-content/uploads/2016/07/Natural-Mountain-HD-Wallpaper-1.jpg "Mind Inventory")
