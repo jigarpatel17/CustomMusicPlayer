@@ -51,6 +51,4 @@ https://console.firebase.google.com/u/0/project/exampleplacepicker-154714/notifi
  
  
  
-![Screenshots](http://awallpapersimages.com/wp-content/uploads/2016/07/Natural-Mountain-HD-Wallpaper-1.jpg "Mind Inventory")
-
-![Screenshots](/Gift-Card-Facts.jpg?raw=true "Mind Inventory")
+![Screenshots](https://drive.google.com/open?id=1WtfVNupBn_piSm7YFvV3Q1tN8tmhrP1u "Notification Panel")
