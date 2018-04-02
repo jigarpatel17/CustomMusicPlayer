@@ -49,6 +49,4 @@ https://console.firebase.google.com/u/0/project/exampleplacepicker-154714/notifi
         }
  ----------------------------------------------------------------
  
- 
- 
-![Screenshots](https://drive.google.com/open?id=1WtfVNupBn_piSm7YFvV3Q1tN8tmhrP1u "Notification Panel")
+![Screenshots](/notification_sample.png?raw=true "Notification Panel")
